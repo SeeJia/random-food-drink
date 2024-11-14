@@ -1,1 +1,15 @@
-["Cake 蛋糕", "Ice Cream 冰淇淋", "Pudding 布丁","Bread 面包"]
+[
+    "Cake 蛋糕", "Ice Cream 冰淇淋", "Pudding 布丁","Bread 面包", "Tart 蛋挞", 
+    "Mille Crepe 千层蛋糕","Tiramisu 提拉米苏","Dim Sum 点心","Popiah 薄饼","Cendol 珍多",
+    "Kuih Lapis 九层糕","Apam Balik 班兰煎饼", "Grilled Sausage 烤香肠",
+    "Baked Potato 烤土豆","Mushroom Soup 蘑菇汤","Tteokbokki (Spicy Rice Cakes) 辣炒年糕",
+    "Milk Tea Smoothie 奶茶冰沙","Ais Kacang 红豆冰","Pulut Tai Tai 蓝花糕","Pisang Goreng 炸香蕉",
+    "Kuih Seri Muka 椰浆糕","Onde-Onde 珍珠糯米团","Sago Gula Melaka 西米椰糖布丁","Kuih Ketayap 香兰卷",
+    "Curry Puff 咖喱饺","Pisang Goreng Cheese 芝士炸香蕉","Pisang Goreng Chocolate 巧克力炸香蕉",
+    "Dodol 椰糖年糕","Pengat Pisang 香蕉椰奶甜汤","Kuih Bingka Ubi 木薯糕","Bubur Cha Cha 查查糖水",
+    "Putu Piring 椰糖米糕","Kuih Bahulu 鸡蛋糕","Pulut Inti 椰丝糯米糕","Kuih Talam 双层糕","Tau Foo Fah 豆腐花",
+    "Roti Jala 网饼","Putu Mayam 椰丝米粉","Tapai Ubi 木薯发酵糕","Kuih Tepung Pelita 双层米粉糕","Lepat Pisang 香蕉糯米糕",
+    "Wajik 糯米椰糖糕","Kuih Kosui 香兰碱水糕","Kaya Ball 鸡蛋椰浆球","Agar-Agar 椰糖果冻","Keropok Lekor 鱼饼条","Bubur Pulut Hitam 黑糯米糖水",
+    "Kuih Keria 甜甜圈地瓜圈","Kuih Dangai 椰丝米糕","Kuih Cucur Jemput-Jemput 炸面团","Bubur Gandum 小麦糖水","Pulut Panggang 烤糯米卷",
+    "Kuih Bangkit 椰子饼","Seri Muka Labu 南瓜椰浆糕"
+]

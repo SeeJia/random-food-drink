@@ -7,6 +7,30 @@ h1{
     font-size: 48px;
 }
 
+@media (max-width: 1200px) {
+    h1 {
+        font-size: 40px; /* 大屏幕以下适当减小 */
+    }
+}
+
+@media (max-width: 992px) {
+    h1 {
+        font-size: 36px; /* 中等屏幕下更小 */
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 30px; /* 小屏幕下再减小 */
+    }
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 24px; /* 超小屏幕下字体继续减小 */
+    }
+}
+
 h2{
     font-family: "Roboto", sans-serif;
     font-weight: 900;
@@ -14,11 +38,59 @@ h2{
     font-size: 40px;
 }
 
+@media (max-width: 1200px) {
+    h2 {
+        font-size: 36px; /* 大屏幕以下适当减小 */
+    }
+}
+
+@media (max-width: 992px) {
+    h2 {
+        font-size: 32px; /* 中等屏幕下更小 */
+    }
+}
+
+@media (max-width: 768px) {
+    h2 {
+        font-size: 28px; /* 小屏幕下再减小 */
+    }
+}
+
+@media (max-width: 576px) {
+    h2 {
+        font-size: 24px; /* 超小屏幕下字体继续减小 */
+    }
+}
+
 h3{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 32px;
+}
+
+@media (max-width: 1200px) {
+    h3 {
+        font-size: 28px; /* 大屏幕以下适当减小 */
+    }
+}
+
+@media (max-width: 992px) {
+    h3 {
+        font-size: 24px; /* 中等屏幕下更小 */
+    }
+}
+
+@media (max-width: 768px) {
+    h3 {
+        font-size: 24px; /* 小屏幕下再减小 */
+    }
+}
+
+@media (max-width: 576px) {
+    h3 {
+        font-size: 24px; /* 超小屏幕下字体继续减小 */
+    }
 }
 
 h4{
@@ -33,6 +105,37 @@ h5{
     font-weight: 500;
     font-style: normal;
     font-size: 24px;
+}
+
+h5 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px; /* 默认字体大小 */
+}
+
+@media (max-width: 1200px) {
+    h5 {
+        font-size: 20px; /* 大屏幕以下适当减小 */
+    }
+}
+
+@media (max-width: 992px) {
+    h5 {
+        font-size: 20px; /* 中等屏幕下更小 */
+    }
+}
+
+@media (max-width: 768px) {
+    h5 {
+        font-size: 20px; /* 小屏幕下再减小 */
+    }
+}
+
+@media (max-width: 576px) {
+    h5 {
+        font-size: 20px; /* 超小屏幕下字体继续减小 */
+    }
 }
 
 h6{

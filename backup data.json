@@ -1,7 +1,0 @@
-{
-  "foods": {
-    "Noodles": ["Mee Rebus 爪哇面", "Mee Goreng 炒面", "Maggi Goreng 炒快熟面"],
-    "Rice": ["Fried Rice 炒饭", "Sushi 寿司", "curry rice 咖哩饭"],
-    "Dessert": ["Cake 蛋糕", "Ice Cream 冰淇淋", "Pudding 布丁"]
-  }
-}
