@@ -1,0 +1,35 @@
+.form-contact {
+    margin: 0 250px; /* Default for large screens */
+}
+
+@media (max-width: 1200px) { /* Extra large devices (large desktops) */
+    .form-contact {
+        margin: 0 200px;
+    }
+}
+
+@media (max-width: 992px) { /* Large devices (desktops) */
+    .form-contact {
+        margin: 0 150px;
+    }
+}
+
+@media (max-width: 768px) { /* Medium devices (tablets) */
+    .form-contact {
+        margin: 0 100px;
+    }
+}
+
+@media (max-width: 576px) { /* Small devices (large phones) */
+    .form-contact {
+        margin: 0 50px;
+    }
+}
+
+@media (max-width: 400px) { /* Extra small devices (small phones) */
+    .form-contact {
+        margin: 0 20px;
+    }
+}
+
+
