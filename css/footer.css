@@ -1,0 +1,19 @@
+:root {
+    --oxford-blue:#14213D;
+    --seasalt: #F8F8F8;
+    --orange: #FCA311;
+    --platinum: #E5E5E5;
+    --box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+footer .footer-link{
+    color: var(--seasalt);
+}
+
+footer .footer-link:hover{
+    color: var(--orange);
+}
+
+footer .footer-link.active{
+    color: var(--orange);
+}

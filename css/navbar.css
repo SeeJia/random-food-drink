@@ -7,7 +7,7 @@
 }
 
 .navbar{
-    background-color: --seasalt; 
+    background-color: var(--seasalt); 
     box-shadow: var(--box-shadow);
 }
 
@@ -22,6 +22,15 @@
 
 .nav-link{
     color: var(--oxford-blue);
+}
+
+.nav-link:hover{
+    color: var(--orange);
+}
+
+
+.navbar-nav .nav-link.active{
+    color: var(--orange);
 }
 
 .cta-button{
