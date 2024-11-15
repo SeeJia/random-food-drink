@@ -21,7 +21,7 @@ To get started with the project locally, follow these steps:
 - Open the index.html file in your browser, or use a local server setup (like VS Code Live Server) for a better experience.
 
 ## Usage
-On the homepage, simply click the “Randomize” button to get a food or drink suggestion.
+On the homepage, simply click the “Submit” button to get a food or drink suggestion.
 The system will randomly display a food item that can be found in Malaysia.
 
 ## How to Customize
