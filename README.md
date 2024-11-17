@@ -8,6 +8,9 @@ The website features a Bootstrap 5 interface and categorizes food and drinks int
 - Variety of Cuisines: Food and drinks available from various cuisines that can be found in Malaysia, showcasing the country's diverse culinary landscape.
 - Easily Customizable: Easily add, remove, or modify food and drink options in the json file.
 
+## Figma Design
+You can view the Figma design for this project here: [Figma Design](https://www.figma.com/design/PIxU8yAMytqeZJdLrmNsux/random_select_fooddrink?node-id=0-1&t=YlRizA0ccQr7CNrP-1)
+
 ## Installation Instructions
 To get started with the project locally, follow these steps:
 
