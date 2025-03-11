@@ -15,7 +15,7 @@ You can view the Figma design for this project here: [Figma Design](https://www.
 To get started with the project locally, follow these steps:
 
 ### 1. Clone the Repository:
-- git clone [https://github.com/yourusername/random-food-and-drink.git](https://github.com/SeeJia/random-food-drink.git)
+- git clone [https://github.com/yourusername/random-food-and-drink.git](https://github.com/yourusername/random-food-drink.git)
 
 ### 2. Navigate to the Project Directory:
 - cd random-food-and-drink
